@@ -1,6 +1,7 @@
 <script setup>
 import Header from './components/Header.vue'
 import Card from './components/Card.vue'
+import Section from './Section.vue'
 </script>
 
 <template>
@@ -18,10 +19,9 @@ import Card from './components/Card.vue'
             <button> Add Expense</button>
         </form>
 
-        <section>
-            <h3> People</h3>
-            <ul id="peopleList" class="list"></ul>
-        </section>
+       <Section>
+       <ul id="peopleList" class="list"></ul>
+       </Section>
 
         <section>
         <h3>Expenses</h3>
