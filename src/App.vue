@@ -1,7 +1,7 @@
 <script setup>
 import Header from './components/Header.vue'
 import Card from './components/Card.vue'
-import Section from './Section.vue'
+import Section from './components/Section.vue'
 </script>
 
 <template>
