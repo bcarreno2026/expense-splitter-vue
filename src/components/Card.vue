@@ -10,7 +10,7 @@
     background: #1a1a1a;
     padding: 18px;
     border-radius: 16px;
-    box-shadow: 0 10px 24px rgba(255, 0, 0, 0.3);
-    border: 2px solid #ff0000;
+    box-shadow: 0 10px 24px rgba(255, 165, 0, 0.3);
+    border: 2px solid #267809;
 }
 </style>
