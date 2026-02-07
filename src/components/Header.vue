@@ -1,4 +1,5 @@
 <template>
+     <!-- This comment is for the HTML -->
     <header class="top">
         <h1>Split The Bill in vue</h1>
         <p>Split expenses and see who owes what.</p>
